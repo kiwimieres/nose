@@ -1,0 +1,1 @@
+Este repositorio contiene mis primeros proyectos y maquetaciones web en HTML, desarrollados durante mi etapa en el colegio. Su propósito es estrictamente de archivo personal y registro de mi curva de aprendizaje inicial. El código y las prácticas aquí presentes no reflejan mis conocimientos técnicos actuales ni mi nivel en el desarrollo de software.
